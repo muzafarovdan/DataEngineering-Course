@@ -1,0 +1,4 @@
+[core]
+    remote = yadisk
+['remote "yadisk"']
+    url = https://disk.yandex.ru/d/R-SlBqN4uJ7xfg
