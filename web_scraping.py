@@ -20,3 +20,4 @@ for i in range(len(tags)):
         file.write(request.content)
         print(f'Dowloaded {i+1} of {len(tags)}')
 
+
