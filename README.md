@@ -63,6 +63,8 @@ A repository for homeworks on Data Mining &amp; Labeling course in AI Talent Hub
 
 - [HIGH FIDELITY SPEECH SYNTHESIS WITH ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1909.11646.pdf).
 
+В последней статье говорится о том, как можно генерировать правдоподобную речь с помощью нейросетей.
+
 Конкурент [WaveNet](https://habr.com/ru/companies/Voximplant/articles/309648/). Сеть WaveNet существует уже давно. Она генерирует семплы последовательно, что довольно медленно для современного мира. 
 
 Предлагаемая GAN предлагает возможность распараллеливания генерации семплов для создания звука из текста.
